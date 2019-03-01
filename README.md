@@ -1,4 +1,4 @@
-## useful go snippets
+## useful go snippets \<working in progress\>
 ### helloworld
 helloworld  
 
